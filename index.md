@@ -12,3 +12,8 @@ Added picture.
 var myVar = "Howdy, Partner!';
 ```
 added javascript varible
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+added markdown list
